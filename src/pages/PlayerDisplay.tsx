@@ -248,7 +248,7 @@ useEffect(() => {
             </p>
 
             <h2 className="mt-1 text-2xl lg:text-3xl xl:text-4xl font-black text-white tracking-wide">
-              Kizhakenni T10
+              KCC Veterans 37+ Premier Dhamaka League
             </h2>
 
           </div>
